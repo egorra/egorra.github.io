@@ -819,6 +819,10 @@ Parallax
 
 }
 
+.credits-container {
+    display: none;
+}
+
 @media (max-width:480px) {
 
 	.navbar-custom .nav.navbar-nav {
